@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Day 1: HTML",
+    "date": "2023-09-02",
+    "mentor": "sanjay@example.com"
+  },
+  {
+    "title": "Day 2: JS",
+    "date": "2023-10-02",
+    "mentor": "sanjay@example.com"
+  },
+  {
+    "title": "Day 3: CSS",
+    "date": "2023-11-02",
+    "mentor": "priya@example.com"
+  },
+  {
+    "title": "Day 4: React",
+    "date": "2023-12-02",
+    "mentor": "raj@example.com"
+  },
+  {
+    "title": "Day 5: Node.js",
+    "date": "2024-01-02",
+    "mentor": "neha@example.com"
+  },
+  {
+    "title": "Day 6: Express",
+    "date": "2024-02-02",
+    "mentor": "anil@example.com"
+  },
+  {
+    "title": "Day 7: MongoDB",
+    "date": "2024-03-02",
+    "mentor": "sanjay@example.com"
+  }
+]

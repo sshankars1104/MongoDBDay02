@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Sanjay",
+    "email": "sanjay@example.com",
+    "courses": ["MERN", "MEAN"]
+  },
+  {
+    "name": "Priya",
+    "email": "priya@example.com",
+    "courses": ["Data Science", "Machine Learning"]
+  },
+  {
+    "name": "Raj",
+    "email": "raj@example.com",
+    "courses": ["Full Stack Development", "DevOps"]
+  },
+  {
+    "name": "Neha",
+    "email": "neha@example.com",
+    "courses": ["AI", "Deep Learning"]
+  },
+  {
+    "name": "Anil",
+    "email": "anil@example.com",
+    "courses": ["Cybersecurity", "Blockchain"]
+  }
+]

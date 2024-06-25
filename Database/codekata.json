@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Odd/Even",
+    "description": "Given a number, find whether it is Odd or Even",
+    "points": 10
+  },
+  {
+    "name": "Factorial",
+    "description": "Calculate the factorial of a given number",
+    "points": 20
+  },
+  {
+    "name": "Palindrome",
+    "description": "Check if a given string is a palindrome",
+    "points": 15
+  },
+  {
+    "name": "Prime Number",
+    "description": "Determine if a given number is a prime number",
+    "points": 25
+  },
+  {
+    "name": "Fibonacci",
+    "description": "Generate the Fibonacci series up to a given number",
+    "points": 30
+  }
+]

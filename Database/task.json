@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Day 1 HTML",
+    "dueDate": "2023-09-09",
+    "date": "2023-09-02"
+  },
+  {
+    "name": "Day 2 CSS",
+    "dueDate": "2023-09-16",
+    "date": "2023-09-09"
+  },
+  {
+    "name": "Day 3 JavaScript",
+    "dueDate": "2023-09-23",
+    "date": "2023-09-16"
+  },
+  {
+    "name": "Day 4 React",
+    "dueDate": "2023-09-30",
+    "date": "2023-09-23"
+  },
+  {
+    "name": "Day 5 Node.js",
+    "dueDate": "2023-10-07",
+    "date": "2023-09-30"
+  }
+]

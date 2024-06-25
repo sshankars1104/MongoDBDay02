@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Sam",
+    "email": "sam@example.com",
+    "course": "MERN Stack",
+    "batch": "FSD56WE-T",
+    "mentor": {
+      "name": "Sanjay",
+      "email": "sanjay@example.com"
+    }
+  },
+  {
+    "name": "Alex",
+    "email": "alex@example.com",
+    "course": "Data Science",
+    "batch": "DS78GH-J",
+    "mentor": {
+      "name": "Priya",
+      "email": "priya@example.com"
+    }
+  },
+  {
+    "name": "Mia",
+    "email": "mia@example.com",
+    "course": "Full Stack Development",
+    "batch": "FSD99RT-Y",
+    "mentor": {
+      "name": "Raj",
+      "email": "raj@example.com"
+    }
+  },
+  {
+    "name": "John",
+    "email": "john@example.com",
+    "course": "Machine Learning",
+    "batch": "ML45PL-B",
+    "mentor": {
+      "name": "Neha",
+      "email": "neha@example.com"
+    }
+  },
+  {
+    "name": "Emma",
+    "email": "emma@example.com",
+    "course": "AI and Deep Learning",
+    "batch": "AI23XY-Z",
+    "mentor": {
+      "name": "Anil",
+      "email": "anil@example.com"
+    }
+  }
+]
